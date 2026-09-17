@@ -1,0 +1,6 @@
+{
+  "name": "MASAK MASAK",
+  "description": "Game cooking dan restaurant management seru dengan sistem customer beruntun, proses memasak interaktif, sistem gosong realistis, pemilihan chef, dan multi-restoran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
